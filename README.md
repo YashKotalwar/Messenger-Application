@@ -1,2 +1,2 @@
-# dailychatting
+Messenger Application
 Using React 
